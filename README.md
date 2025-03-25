@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/jay_arya736" target="blank"><img src="https://img.shields.io/twitter/follow/jay_arya736?logo=twitter&style=for-the-badge" alt="jay_arya736" /></a> </p>
 
-- 🔭 I’m currently working on **enhancing and structuring Relational Databases for seamless performance.**
+- 🔭  I’m currently working on a Java Full Stack project to gain in-depth knowledge of Spring Boot.
 
-- 🌱 I’m currently learning **advanced techniques to optimize databases for speed and efficiency.**
+- 🌱  I’m currently learning advanced concepts in Spring Boot, Hibernate, and MySQL for building scalable applications.
 
-- 🤝 I’m looking for help with **exploring Rust and unlocking its future potential in development. 🚀**
+- 🤝 🤝 I’m looking for help with exploring Rust and unlocking its future potential in development. 🚀 🚀
 
 - 📫 How to reach me **jayktr736@gmail.com**
 
