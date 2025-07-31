@@ -1,121 +1,204 @@
-<h1 align="center">Hey 👋, I'm Jay</h1>
-<h3 align="center">🧠 Backend Developer | ⚙️ Security-Minded Engineer | 🚀 Turning Complex Problems into Scalable, Real-World Solutions</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Jay-736-Github/Jay-736-Github/blob/main/My1.png?raw=true" alt="Jay's Banner" width="100%" />
+</p>
+
+<h1 align="center">Jay</h1>
+<h3 align="center">Backend Developer | Security Enthusiast | DevOps Explorer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/jay_arya736" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jay_arya736?logo=twitter&style=for-the-badge" alt="Twitter: jay_arya736" />
+  <i>Turning ideas into fast APIs, clean architecture & real-world dev tools.</i><br/>
+  <i>Powered by ☕ caffeine, 💡 curiosity, and 🌐 open source.</i>
+</p>
+
+<p align="center">
+  <a href="https://jayportfolio-lac.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/jay-prakash-arya-23a24017b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://jayportfolio-lac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  <a href="https://twitter.com/jay_arya736" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/jay_arya736?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="mailto:jayktr736@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jayktr736%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
-<hr/>
+---
 
-<h3>🚀 About Me</h3>
-<ul>
-  <li>💼 Software Development Intern at <strong>Security Lit</strong> where I built backend features, integrated AI-based agents, and worked on a custom vulnerability scanner.</li>
-  <li>🧠 Passionate about solving real-world problems through clean, scalable, and secure code.</li>
-  <li>🔍 I explore backend architecture, DevOps tools, and security practices to build production-ready systems.</li>
-  <li>🌱 Currently diving deeper into Spring Boot, Node.js, system design, and distributed computing.</li>
-  <li>🌐 Love working at the intersection of tech, creativity, and impact.</li>
-</ul>
+## 👨‍💻 About Me
+There’s something deeply satisfying about how software systems come together — not just the code, but the architecture and logic beneath it. That curiosity led to a B.Tech in Computer Science and Engineering from Birla Institute of Technology, Mesra, and more importantly, to hands-on learning through building, breaking, and rebuilding projects.
 
-<h3>🏢 Experience</h3>
-<ul>
-  <li><strong>Software Development Engineer Intern - Security Lit (Capture The Bug)</strong><br/>
-    <em>April 2025 – June 2025</em>
-    <ul>
-      <li>Integrated AI-powered agents into backend vulnerability processing workflows.</li>
-      <li>Connected frontend (React) with backend (Express) APIs for smooth UX.</li>
-      <li>Contributed to building a Nuclei-inspired vulnerability scanner with automation.</li>
-      <li>Integrated Slack & JIRA APIs to streamline internal security communication.</li>
-    </ul>
-  </li>
-  <li><strong>Web Development Intern - MotionCut</strong><br/>
-    <em>June 2024 – August 2024</em>
-    <ul>
-      <li>Developed dynamic, mobile-friendly interfaces and APIs.</li>
-      <li>Enhanced user interaction and debugged end-to-end flows.</li>
-    </ul>
-  </li>
-</ul>
+The real interest lies in the backend — system design, performance, and security — the parts that make applications reliable and scalable. It’s about writing clean, maintainable code, thinking ahead, and solving problems at their core.
 
-<h3>🎓 Education</h3>
-<ul>
-  <li><strong>Bachelor of Technology - Computer Science and Engineering</strong><br/>
-    <strong>Birla Institute of Technology, Mesra (2021–2025)</strong><br/>
-    CGPA: 8.22
-  </li>
-  <li><strong>Scottish Public School, Katihar</strong>
-    <ul>
-      <li>12th (2019–2020)</li>
-      <li>10th (2017–2018)</li>
-    </ul>
-  </li>
-</ul>
+Right now, the focus is on growing as a developer by building better systems and deepening technical skills — with a mindset rooted in clarity, curiosity, and continuous improvement.
 
-<h3>💻 Skills & Tech Stack</h3>
-<ul>
-  <li><strong>Languages:</strong> C++, Python, Java, JavaScript</li>
-  <li><strong>Backend:</strong> Node.js, Express.js, Django, Spring Boot</li>
-  <li><strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Bootstrap</li>
-  <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Supabase</li>
-  <li><strong>Tools:</strong> Git, GitHub, Postman, Jenkins, Docker, Selenium</li>
-  <li><strong>Cloud:</strong> AWS, Azure (basic), Kubernetes</li>
-</ul>
+---
 
-<h3>🚧 Projects</h3>
-<ul>
-  <li><strong>🔐 Web Vulnerability Scanner</strong><br/>
-    Python-based scanner detecting missing headers, SQLi, XSS, subdomains. Generates reports for multiple targets.
-  </li>
-  <li><strong>🗣️ Voice-Driven Property Listing Tool</strong><br/>
-    Real-time MERN stack app that uses speech input to submit and manage property listings.
-  </li>
-  <li><strong>🌍 Globetrotter Challenge</strong><br/>
-    Full-stack travel guessing game using Next.js + Supabase with scoring and real-time feedback.
-  </li>
-</ul>
+## 🧑‍💻 Experience
 
-<h3>📫 Connect with Me</h3>
-<ul>
-  <li><strong>Email:</strong> jayarya.work@gmail.com</li>
-  <li><strong>Twitter:</strong> <a href="https://twitter.com/jay_arya736" target="_blank">@jay_arya736</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/jay-prakash-arya-23a24017b" target="_blank">Jay Prakash Arya</a></li>
-  <li><strong>Portfolio:</strong> <a href="https://jayportfolio-lac.vercel.app/" target="_blank">jayportfolio-lac.vercel.app</a></li>
-</ul>
+### 🔐 Security Lit — *Software Development Engineer Intern*
+**April 2025 – June 2025** • *Remote*
 
-<h3>🧰 Languages & Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+- Developed backend functionality to integrate an AI-powered agent into researcher submission forms — enabling automated data processing, intelligent analysis, and real-time vulnerability assessments.
+- Integrated **JIRA** and **Slack APIs** to improve team workflows and communication.
+- Optimized and debugged **Node.js** modules to enhance backend reliability.
+- Connected **React.js** interfaces with **Express APIs** to ensure a seamless full-stack experience.
+- Contributed to R&D of a custom vulnerability scanner (inspired by Nuclei) with support for automated security testing and threat detection.
+
+---
+
+### 🌐 Motion Cut — *Web Developer Intern*
+**June 2024 – August 2024** • *Remote*
+
+- Designed and built responsive, dynamic web interfaces to support real-world client applications.
+- Gained hands-on full-stack experience using modern frontend and backend technologies.
+- Strengthened debugging and troubleshooting skills through independent problem-solving and fast learning.
+
+---
+
+## 🧠 Technical Skills
+
+### 👨‍💻 Programming Languages & Fundamentals  
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1e90ff?style=for-the-badge)](https://www.geeksforgeeks.org/data-structures/)
+[![OOP](https://img.shields.io/badge/OOP-Concepts-ff69b4?style=for-the-badge)](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+
+### ⚙️ Frameworks & Libraries  
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+
+### 🗄️ Databases  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![NoSQL](https://img.shields.io/badge/NoSQL-Database-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/NoSQL)
+[![RDBMS](https://img.shields.io/badge/RDBMS%20Concepts-Conceptual-blueviolet?style=for-the-badge)](https://www.geeksforgeeks.org/relational-database-management-system-rdbms/)
+
+### 🧰 Tools & DevOps  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)](https://restfulapi.net/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-Basics-orange?style=for-the-badge)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+
+### ☁️ Cloud & Containerization  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+
+---
+
+## 💼 Projects Showcase
+
+### 🔹 Identity Reconciliation Service
+**Tech Stack:** Node.js, TypeScript, Express.js, MySQL, Prisma  
+🔗 [GitHub Repo](https://github.com/Jay-736-Github/Identity-Reconciliation)
+
+> Built a high-performance reconciliation engine that consolidates customer identities via smart `/identify` and `/order` APIs.
+
+- Scalable backend in Node.js and TypeScript for real-time identity merging.
+- Managed relational data with Prisma ORM over MySQL.
+- Engineered logic to identify, link, and merge customer profiles.
+- Designed REST APIs that associate contacts and orders using primary-secondary logic.
+
+---
+
+### 🔹 Voice-Driven Property Listing Tool
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Web Speech API  
+🔗 [GitHub Repo](https://github.com/Jay-736-Github/Leapot_Problem_Statement1)
+
+> A full-stack app where agents list real estate properties using natural voice inputs.
+
+- Enabled real-time voice input with Web Speech API.
+- Converted speech into structured listing data with validation.
+- Developed a responsive UI for reviewing and submitting listings.
+
+---
+
+### 🔹 Python-Based Web Vulnerability Scanner
+**Tech Stack:** Python, Requests, Urllib, Web Security  
+🔗 [GitHub Repo](https://github.com/Jay-736-Github/Python-Based-Web-Vulnerability-Scanner)
+
+> Security scanner to detect missing headers, XSS, SQLi, and more.
+
+- Automated scanning across multiple targets.
+- Identified reflected XSS, directory listings, and insecure HTTP configurations.
+- Built modular, extensible vulnerability checker architecture.
+
+---
+
+### 🔹 Globetrotter Challenge
+**Tech Stack:** Next.js, Supabase, Tailwind CSS, TypeScript  
+🔗 [GitHub Repo](https://github.com/Jay-736-Github/Globetrotter)
+
+> A real-time, interactive travel guessing game with score tracking.
+
+- Full-stack app with backend logic for authentication and scoring.
+- Integrated Supabase for fast and scalable backend support.
+- Real-time feedback and interactive gameplay experience.
+
+---
+
+### 🔹 Recipe Management System
+**Tech Stack:** React, Node.js, Express.js, MySQL, JWT  
+🔗 [GitHub Repo](https://github.com/Jay-736-Github/recipe_management_system)
+
+> Manage, update, and authenticate user-created recipes.
+
+- Built with full JWT authentication and CRUD support.
+- RESTful APIs for recipe creation, retrieval, and editing.
+- MySQL used for relational data storage.
+
+---
+
+### 🔹 Snake-Nado 🎮
+**Tech Stack:** JavaScript, HTML, CSS  
+🔗 [GitHub Repo](https://github.com/Jay-736-Github/Snake-Game)  
+🎮 [Play Online](https://snakenado-jays-projects-b04bef62.vercel.app/)
+
+> Classic snake game with modular logic and real-time score.
+
+- Clean JavaScript logic for snake movement and collision.
+- Responsive layout and increasing difficulty modes.
+- Game loop built from scratch with keyboard event handling.
+
+---
+
+### 🔹 Real-Time Chat Application
+**Tech Stack:** React, Express.js, Socket.io, MongoDB  
+🔗 [GitHub Repo](https://github.com/Jay-736-Github/ChatApp)
+
+> A real-time messaging platform with chat history and instant updates.
+
+- Used Socket.io for live, bi-directional communication.
+- MongoDB backend for persistent chat history.
+- Decreased latency by optimizing socket handling and DB reads.
+
+
+---
+
+## 🏆 Achievements
+![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=Jay-736-Github&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- 💌 Email: [jayarya.work@gmail.com](mailto:jayarya.work@gmail.com)  
+- 🌐 Portfolio: https://jayportfolio-lac.vercel.app/  
+
+---
+
+<p align="center">
+  <i>Thank you for visiting my profile! Let’s build something impactful 🚀</i>
 </p>
