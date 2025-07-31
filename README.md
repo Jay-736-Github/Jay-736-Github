@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Jay-736-Github/Jay-736-Github/blob/main/My1.png?raw=true" alt="Jay's Banner" width="100%" />
+  <img src="https://github.com/Jay-736-Github/Jay-736-Github/blob/main/Pic.png?raw=true" alt="Jay's Avatar" width="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Jay</h1>
