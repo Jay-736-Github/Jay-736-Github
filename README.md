@@ -21,9 +21,9 @@
   <a href="https://twitter.com/jay_arya736" target="_blank">
     <img src="https://img.shields.io/twitter/follow/jay_arya736?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="mailto:jayktr736@gmail.com">
+<!--   <a href="mailto:jayktr736@gmail.com">
     <img src="https://img.shields.io/badge/Email-jayktr736%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  </a> -->
 </p>
 
 ---
